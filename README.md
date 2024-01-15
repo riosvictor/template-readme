@@ -1,13 +1,13 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta"> 
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/riosvictor/template-readme?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/riosvictor/template-readme"> 
+  <a href="https://github.com/riosvictor/template-readme/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/riosvictor/template-readme">
   </a>    
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-  <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
+  <a href="https://github.com/riosvictor/template-readme/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/riosvictor/template-readme?style=social">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
       <a href="#sobre">Sobre</a>
     </li>
     <li>
-      <a href="#funcionalidades">Funcionalidades</a>
+      <a href="#features">Funcionalidades</a>
     </li>
     <li>
       <a href="#layout">Layout</a>
@@ -36,13 +36,10 @@
       <a href="#execute">Como executar</a>
     </li>
     <li>
-      <a href="#-tecnologias">Tecnologias</a>
+      <a href="#tech">Tecnologias</a>
     </li>
     <li>
-      <a href="#-contribuidores">Contribuidores</a>
-    </li>
-    <li>
-        <a href="#-autor">Autor</a>
+        <a href="#author">Autor</a>
     </li>
     <li>
        <a href="#licenca">Licença</a>
@@ -59,7 +56,7 @@ Propósito do projeto.
 
 ---
 
-<a name="funcionalidades"></a>
+<a name="features"></a>
 
 ## ⚙️ Funcionalidades
 
@@ -109,6 +106,8 @@ $ comando
 ```
 
 ---
+
+<a name="tech"></a>
 
 ## 🛠 Tecnologias
 
@@ -166,6 +165,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ---
+
+<a name="author"></a>
 
 ## 🦸 Autor
 
